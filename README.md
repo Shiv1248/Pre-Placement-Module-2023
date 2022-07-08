@@ -7,8 +7,8 @@
 - Preferred Programming Language: Java
 
 ## Coding Profiles
-- LeetCode: Shivansh Mittal (https://leetcode.com/Shiv1249/)
-- HackerRank: Shivansh Mittal (https://www.hackerrank.com/shivanshmittal2)
+- LeetCode: [SHIVANSH-MITTAL](https://leetcode.com/Shiv1249/)
+- HackerRank: [SHIVANSH-MITTAL](https://www.hackerrank.com/shivanshmittal2)
 
 ## Placement Module
 1. [DS I](https://github.com/Shiv1248/Pre-Placement-Module-2023/tree/main/DS%20I)
